@@ -1,2 +1,2 @@
 # TorontoStatsCanData
-http://toronto-test.herokuapp.com/
+Check out the working app here: http://toronto-test.herokuapp.com/
